@@ -5,5 +5,5 @@
 	
 	echo "Olá Udemy - mais um echo";
 	
-	echo "Mais um echo no código ! ! ! ";
+	echo "Mais um echo no código - ficaram 3 ! ! ! ";
 ?>
